@@ -1,10 +1,6 @@
 # Plagiarism Guide
 
-<div>
-
 ## Need a refresher on what constitutes plagiarism or some concrete examples on how to properly write about and cite texts you've read?
-
-  
 
 This guide is intended to help you understand some of the common
 mistakes that students often make related to plagiarism to help you
@@ -13,7 +9,6 @@ about how to use sources or work with others. As always, you should
 consult your instructor if you cannot determine if what you're doing
 might be construed as plagiarism.
 
-<div style="padding: 3rem;  margin-bottom: 5vh;">
 
 ### Academic honesty and student integrity are of fundamental importance at Brandeis University and we want students to understand this clearly at the start of the term.
 
@@ -120,25 +115,22 @@ Model (2009).
 Example of plagiarized student writing:
 
 > "The history of object-oriented programming begins in the late 1960s.
-> It was <span
-> style="color: rgb(51, 51, 51); background-color: rgb(255, 207, 53);">developed
+> _It was developed
 > in the research community in the 1970s, and  then incorporated into
 > languages **like Smalltalk, Objective-C, and C++** that spread widely
 > into both academic and commercial environments in the
-> 1980s.</span><span style="background-color: rgb(255, 207, 53);"> In
+> 1980s. In
 > the 1990s this paradigm became a key part of modern software
 > development approaches. Smalltalk and Lisp continued to be used, C++
 > became dominant, and Java was introduced. Mac OS X, though built on a
 > Unix-like kernel, uses Objective-C for upper layers of the system,
 > especially the user interface, as do applications built for Mac OS X.
 > JavaScript, used primarily to program web browser actions, is another
-> object-oriented language. Once a radical innovation,</span>**<span
-> style="background-color: rgb(255, 207, 53);"> object-oriented
-> programming is now a mainstream paradigm today.</span>**<span
-> style="background-color: rgb(255, 207, 53);">"</span>
+> object-oriented language. Once a radical innovation,**object-oriented
+> programming is now a mainstream paradigm today.**_"
 
-The <span style="background-color: rgb(255, 207, 53);">highlighted
-text</span> has been directly plagiarized from the original source. The
+The italicized
+text has been directly plagiarized from the original source. The
 student did not cite their source nor did they explain the meaning in
 their own words. The **bolded phrases** show where the student attempted
 to alter the original source, moving around portions of the text to put it slightly in their own words. Moving phrases around in this manner is still considered plagiarism because the student rely heavily upon the original text and did not include any reference to the source nor the author. The paragraph has not paraphrased - articulated in the student's own words - and thus it constitutes plagiarism.
@@ -180,10 +172,8 @@ quote. If not, try to write the sentences again avoiding those phrases.
 It can help to think about how you would explain the concept to someone
 with no background in this topic.
 
-<span
-style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;">When
-you paraphrase, you still have to cite the author, even if you don't
-include a direct quote. </span>
+When you paraphrase, you still have to cite the author, even if you don't
+include a direct quote. 
 
 > For instance, if the student decided not to use a quote in the previous
 > example, their paragraph could look something like this:
@@ -222,6 +212,3 @@ generate a bibliography for you that is properly formatted.
   [Zotero]: https://guides.library.brandeis.edu/zotero
   [EndNote]: https://guides.library.brandeis.edu/EndNote
 
-</div>
-
-</div>
